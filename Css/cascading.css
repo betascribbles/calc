@@ -1,0 +1,45 @@
+.back{
+    background-color: #00e6e6;
+}
+
+input[type=button]
+    {
+        padding: 0px;
+        border-bottom:4px solid rgb(19, 139, 35);
+        height: 50px;
+        width: 80px;
+        border-radius: 12px;
+
+    }
+input[type=reset]
+{
+    padding: 0px;
+        border-bottom:4px solid rgb(19, 139, 69);
+        height: 50px;
+        width: 80px;
+        border-radius: 12px;
+}
+input[type=text]
+    {
+
+        text-align: right;
+        height: 50px;
+        width: 240px;
+        background-color: #7aee0e;
+    }
+.control
+    {
+
+        margin:0px auto;
+        height: 350px;
+        width: 367px;
+        background-color:#251b0e;
+        border-radius:12px;
+        border-bottom:4px solid rgb(19, 139, 45);
+    }
+#xoxo{
+    float: left;
+    margin-top:20px;
+    margin-left:20px;
+
+}
